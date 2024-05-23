@@ -1,0 +1,73 @@
+.calculator {
+    position: absolute;
+}
+.rowOperate_1 {
+  height: 28px;
+  width: 252px;
+  background: linear-gradient(135deg, #b77615, #ae350d);
+}
+.rowOperate_2 {
+  height: 28px;
+  width: 252px;
+  background: linear-gradient(135deg, #b77615, #ae350d);
+}
+.rowNum_1, .rowNum_2 {
+  height: 50px;
+  width: 252px;
+  background: linear-gradient(135deg, #fcaf3b, #f25c2a);
+}
+
+
+.buttonMathOperation {
+  height: 25px;
+  width: 60px;
+  color: white;
+  transition: 0.2s linear;
+  background: transparent;
+  border: none;
+}
+.buttonMathOperation:hover {
+  box-shadow: 0 0 0 1px white, 0 0 0 1px #dcbf02;
+}
+.buttonTrigonometryOperation {
+  height: 25px;
+  width: 60px;
+  color: white;
+  transition: 0.2s linear;
+  background: transparent;
+  border: none;
+}
+.buttonTrigonometryOperation:hover {
+  box-shadow: 0 0 0 1px white, 0 0 0 1px #001f85;
+}
+
+.buttonNum {
+  height: 40px;
+  width: 47px;
+  color: white;
+  transition: 0.2s linear;
+  background: transparent;
+  border: none;
+}
+.buttonNum:hover {
+  box-shadow: 0 0 0 1px white, 0 0 0 1px #f8b63c;
+}
+.buttonResult {
+  height: 40px;
+  width: 252px;
+  color: white;
+  transition: 0.2s linear;
+  background: linear-gradient(135deg, #fcaf3b, #f25c2a);
+  border: none;
+}
+.buttonResult:hover {
+  box-shadow: 0 0 0 1px white, 0 0 0 1px #efab17;
+}
+
+.display {
+  height: 40px;
+  width: 248px;
+  background: linear-gradient(180deg, #feead2, #fff8ee);
+  text-align: right;
+  border: none;
+}
