@@ -231,10 +231,7 @@ a {
   padding: 0em;
   background-color: rgb(255, 255, 255);
   border: 1px solid #e7e7e7;
-  text-wrap: 2;
 }
-
-
 
 .footer {
   width: 1440px;
@@ -243,5 +240,6 @@ a {
   margin-left: auto;
   margin-right: auto;
   color: #fff;
-  text-align: center;
+ text-align: center;
+  font-size: xxx-large;
 }
