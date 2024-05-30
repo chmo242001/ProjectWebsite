@@ -206,6 +206,7 @@ a {
 }
 .select_1 {
   height: 32px;
+  width: 160px;
   padding: 0 45px 0 10px;
   border: 1px solid #ccc;
   border-bottom-color: #b3b3b3;
@@ -219,6 +220,7 @@ a {
 }
 .select_2 {
   height: 32px;
+  width: 250px;
   padding: 0 45px 0 10px;
   border: 1px solid #ccc;
   border-bottom-color: #b3b3b3;
