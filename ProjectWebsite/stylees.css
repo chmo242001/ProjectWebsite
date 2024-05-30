@@ -196,6 +196,19 @@ a {
   margin-top: 18px;
   cursor: pointer;
 }
+
+.dogImage:hover {
+  border-color: #c4cde8;
+}
+.catImage:hover {
+  border-color: #c4cde8;
+}
+.littleDogImage:hover {
+  border-color: #c4cde8;
+}
+.littleCatImage:hover {
+  border-color: #c4cde8;
+}
 .animalCatalogFilters {
   width: 1320px;
   height: 72px;
@@ -236,6 +249,41 @@ a {
 }
 .select_2:hover {
   background-color: #e1e1e1;
+}
+.pages-button {
+  width: 270px;
+  position: relative;
+  left: 1045px;
+  bottom: 32px;
+}
+.buttonItem {
+  color: #c6c6c6;
+  font-weight: 400 !important;
+  display: inline-block;
+  border: 1px solid;
+  width: 37px;
+  height: 37px;
+  text-align: center;
+  line-height: 30px;
+  margin: 0 5px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+.buttonItem:hover {
+  color: #001962;
+}
+.buttonItemFirst {
+  color: #479ed4;
+  font-weight: 400 !important;
+  display: inline-block;
+  border: 1px solid;
+  width: 37px;
+  height: 37px;
+  text-align: center;
+  line-height: 30px;
+  margin: 0 5px;
+  border-radius: 50%;
+  cursor: pointer;
 }
 .description-animals {
   margin-top: 40px;
@@ -292,6 +340,12 @@ a {
 .animal-form:hover {
   background-color: #23232305;
   border-color: #23232339;
+}
+.pages-button-two {
+  width: 280px;
+  position: relative;
+  top: 40px;
+  left: 505px;
 }
 
 /*Подвал страницы*/
